@@ -1,6 +1,7 @@
 {
     "require": {
       "ext-imap": "*",
-      "ext-gd":"*"
+      "ext-gd":"*",
+      "ext-mbstring": "*"
     }
 }
